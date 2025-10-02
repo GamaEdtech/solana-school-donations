@@ -65,7 +65,7 @@ The program uses **Anchor framework** to manage accounts and instructions:
 ### Installation
 ```bash
 # Clone repo
-git clone https://github.com/YOUR-USERNAME/solana-school-donation.git
+git clone https://github.com/GamaEdtech/solana-school-donation.git
 cd solana-school-donation
 
 # Install dependencies
